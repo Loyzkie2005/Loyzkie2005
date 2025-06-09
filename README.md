@@ -1,5 +1,4 @@
 # Lester Bulay 
-<body style="background-image: url('https://your-image-url.com/background.jpg'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; color: white;">
 
 
 ## :sparkles: About Me
@@ -34,5 +33,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=Loyzkie2005&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=Loyzkie2005&icon=0&color=1)](https://visitcount.itsvg.in)
-
+<div style="background-color:white; padding:10px; border-radius:10px;">
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sxk3mobjrdwzxbjpzlxrm5jerm)
