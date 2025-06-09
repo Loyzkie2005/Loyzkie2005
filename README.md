@@ -33,5 +33,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Loyzkie2005&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 ---
 
+## :eyes: Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=orange&style=flat-square)
+
 ## :musical_note: Music
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sxk3mobjrdwzxbjpzlxrm5jerm)
