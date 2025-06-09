@@ -1,4 +1,4 @@
-<img src="Loyzkie.gif" alt="GitHub Banner" width=100% />
+<img src="Loyzkie_codes.gif" alt="GitHub Banner" width=100% />
 
 ## :sparkles: About Me
 👨‍💻Currently Studying Programming<br>
