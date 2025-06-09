@@ -1,6 +1,6 @@
 # Lester Bulay 
 
-<img src="Loyzkie.gif" alt="GitHub Banner" width="1920" height="509" />
+<img src="Loyzkie.gif" alt="GitHub Banner" width=100% />
 
 ## :sparkles: About Me
 👨‍💻Currently Studying Programming<br>
