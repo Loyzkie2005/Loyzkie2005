@@ -2,7 +2,7 @@
 
 
 ## :sparkles: About Me
-👨‍💻Currently Studying Programming<br>z
+👨‍💻Currently Studying Programming<br>
 💻Aspring Software Developer or Developer else<br>
 🎥 Aspiring Video Editor
 
