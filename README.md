@@ -1,7 +1,7 @@
 <img src="Loyzkie_codes.gif" alt="GitHub Banner" width=100% />
 
 ## :sparkles: About Me
-## :man_technologist: Currently Studying Programming<br>
+👨‍💻Currently Studying Programming<br>
 💻Aspring Software Developer or Developer else<br>
 🎥 Aspiring Video Editor
 
