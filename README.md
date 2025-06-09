@@ -46,3 +46,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Loyzkie2005/Loyzkie2005/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Loyzkie2005/Loyzkie2005/output/github-snake.svg" />
 </picture>
+
+<div align="center">
+  <p><strong>Created By Lester Bulay</strong></p>
+</div>
