@@ -1,4 +1,5 @@
 # Lester Bulay 
+<body style="background-image: url('https://your-image-url.com/background.jpg'); background-size: cover; background-repeat: no-repeat; background-attachment: fixed; color: white;">
 
 
 ## :sparkles: About Me
