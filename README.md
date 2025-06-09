@@ -6,7 +6,7 @@
 💻Aspring Software Developer or Developer else<br>
 🎥 Aspiring Video Editor
 
-![Anime GIF]https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRkeWd2cnJtNTg2NGM2dXBhYndqeXV6N203NDJxY3M1c2NtOTRrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkW0maGDN1eSc/giphy.gif)
+![Anime GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRkeWd2cnJtNTg2NGM2dXBhYndqeXV6N203NDJxY3M1c2NtOTRrcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkW0maGDN1eSc/giphy.gif)
 
 ## :globe_with_meridians: Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/lester.bulay.2024) 
