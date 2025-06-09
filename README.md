@@ -34,7 +34,7 @@
 ---
 
 ## :eyes: Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=orange&style=flat-square)
+![Profile Views](https://github.com/Loyzkie2005)
 
 ## :musical_note: Music
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sxk3mobjrdwzxbjpzlxrm5jerm)
