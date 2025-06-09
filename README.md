@@ -34,8 +34,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Loyzkie2005&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sxk3mobjrdwzxbjpzlxrm5jerm)
