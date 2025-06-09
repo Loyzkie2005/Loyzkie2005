@@ -35,4 +35,4 @@
 [![](https://visitcount.itsvg.in/api?id=Loyzkie2005&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!--Spotify-->
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sxk3mobjrdwzxbjpzlxrm5jerm&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sxk3mobjrdwzxbjpzlxrm5jerm&unique={true|1|on|yes})
