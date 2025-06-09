@@ -1,5 +1,7 @@
 # Lester Bulay 
 
+<img src="" alt="GitHub Banner" width="100%" />
+
 
 ## :sparkles: About Me
 👨‍💻Currently Studying Programming<br>
