@@ -1,6 +1,6 @@
 <img src="Loyzkie.gif" alt="GitHub Banner" width=100% />
 
-
+# Hi I am Lester Bulay 
 ## :sparkles: About Me
 👨‍💻Currently Studying Programming<br>
 💻Aspring Software Developer or Developer else<br>
