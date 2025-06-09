@@ -39,7 +39,7 @@
 ## :musical_note: Music
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sxk3mobjrdwzxbjpzlxrm5jerm)
 
-
+##.:chart_with_upwards_trend: Contributor Graphs
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Loyzkie2005/Loyzkie2005/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Loyzkie2005/Loyzkie2005/output/github-snake.svg" />
