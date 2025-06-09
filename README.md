@@ -6,7 +6,8 @@
 💻Aspring Software Developer or Developer else<br>
 🎥 Aspiring Video Editor
 
-![Anime GIF](https://tenor.com/view/hasher-happy-sticker-gif-24532200)
+![Anime GIF](https://tenor.com/view/chill-guy-gif-3314189899651010373)
+
 ## :globe_with_meridians: Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/lester.bulay.2024) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lesterbulay18) 
