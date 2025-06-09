@@ -34,7 +34,9 @@
 ---
 
 ## :eyes: Profile Views
-![Profile Views](https://github.com/Loyzkie2005)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Loyzkie2005/count.svg"/>
+</div>
 
 ## :musical_note: Music
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sxk3mobjrdwzxbjpzlxrm5jerm)
