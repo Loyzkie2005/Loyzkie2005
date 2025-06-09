@@ -33,5 +33,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=Loyzkie2005&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 ---
 
-## :musical_note Music
+## :musical_note: Music
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sxk3mobjrdwzxbjpzlxrm5jerm)
