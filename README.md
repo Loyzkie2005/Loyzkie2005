@@ -1,6 +1,6 @@
 # Lester Bulay 
 
-<img src="Loyzkie.gif" alt="GitHub Banner" width="100%" />
+<img src="Loyzkie.gif" alt="GitHub Banner" width="50%" />
 
 
 ## :sparkles: About Me
