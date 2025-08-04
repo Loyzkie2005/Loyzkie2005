@@ -39,7 +39,7 @@
 
 
 ## :musical_note: Music Played
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sxk3mobjrdwzxbjpzlxrm5jerm)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31enrq3shoex4h7hyjn4m2yadeiq)
 
 ## :chart_with_upwards_trend: Contributor Graphs
 <picture>
