@@ -47,10 +47,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Loyzkie2005&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Loyzkie2005&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## :trophy: GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Loyzkie2005&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
----
-
 
 ## :musical_note: Music Played
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31enrq3shoex4h7hyjn4m2yadeiq)
