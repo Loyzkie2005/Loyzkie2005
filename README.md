@@ -48,8 +48,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Loyzkie2005&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-## :musical_note: Music Played
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sxk3mobjrdwzxbjpzlxrm5jerm&count={count})
 
 ## :chart_with_upwards_trend: Contributor Graphs
 <picture>
